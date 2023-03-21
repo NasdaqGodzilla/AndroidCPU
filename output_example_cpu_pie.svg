@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="600" height="800" >
+<g transform="translate(120,120)">
+<rect x="-90.000000" y="120.000000" width="20" height="20" fill="#22f5cb" />
+<text x="-60.000000" y="135.000000"> 293 reportTracker - com.baidu.searchbox</text>
+<rect x="-90.000000" y="145.000000" width="20" height="20" fill="#6615cd" />
+<text x="-60.000000" y="160.000000">58.6 Media           com.baidu.searchbox</text>
+<rect x="-90.000000" y="170.000000" width="20" height="20" fill="#a43f4f" />
+<text x="-60.000000" y="185.000000">58.6 BackgroundThrea com.baidu.searchbox</text>
+<rect x="-90.000000" y="195.000000" width="20" height="20" fill="#fa87f0" />
+<text x="-60.000000" y="210.000000">41.3 OkHttp Dispatch com.baidu.searchbox</text>
+<rect x="-90.000000" y="220.000000" width="20" height="20" fill="#dfc66a" />
+<text x="-60.000000" y="235.000000">41.3 HeapTaskDaemon  com.baidu.searchbox</text>
+<rect x="-90.000000" y="245.000000" width="20" height="20" fill="#388c0b" />
+<text x="-60.000000" y="260.000000">39.1 top             top</text>
+<rect x="-90.000000" y="270.000000" width="20" height="20" fill="#9d6c62" />
+<text x="-60.000000" y="285.000000">32.6 kswapd0         [kswapd0]</text>
+<rect x="-90.000000" y="295.000000" width="20" height="20" fill="#c5a82b" />
+<text x="-60.000000" y="310.000000">28.2 netdisk-task-po com.baidu.searchbox</text>
+<rect x="-90.000000" y="320.000000" width="20" height="20" fill="#514fb0" />
+<text x="-60.000000" y="335.000000">26.0 pool-38-thread- com.baidu.searchbox</text>
+<rect x="-90.000000" y="345.000000" width="20" height="20" fill="#1af9cc" />
+<text x="-60.000000" y="360.000000">26.0 mmc_cq/0        [mmc_cq/0]</text>
+<rect x="-90.000000" y="370.000000" width="20" height="20" fill="#9c1cc3" />
+<text x="-60.000000" y="385.000000">23.9 BackgroundThrea com.baidu.searchbox</text>
+<rect x="-90.000000" y="395.000000" width="20" height="20" fill="#6983d8" />
+<text x="-60.000000" y="410.000000">19.5 RenderThread    com.baidu.searchbox</text>
+<rect x="-90.000000" y="420.000000" width="20" height="20" fill="#372918" />
+<text x="-60.000000" y="435.000000">15.2 surfaceflinger  surfaceflinger</text>
+<rect x="-90.000000" y="445.000000" width="20" height="20" fill="#86249f" />
+<text x="-60.000000" y="460.000000">10.8 ThreadPoolSingl com.baidu.searchbox</text>
+<rect x="-90.000000" y="470.000000" width="20" height="20" fill="#780567" />
+<text x="-60.000000" y="485.000000">10.8 WebCrypto       com.baidu.searchbox</text>
+<path d="M 0 0 100.000000 0.000000 A 100 100 0 0 1 -82.422232 56.626634 z" fill="#22f5cb" />
+<path d="M 0 0 -82.422232 56.626634 A 100 100 0 0 1 -99.558111 9.390553 z" fill="#6615cd" />
+<path d="M 0 0 -99.558111 9.390553 A 100 100 0 0 1 -91.556705 -40.216536 z" fill="#a43f4f" />
+<path d="M 0 0 -91.556705 -40.216536 A 100 100 0 0 1 -71.661814 -69.746573 z" fill="#fa87f0" />
+<path d="M 0 0 -71.661814 -69.746573 A 100 100 0 0 1 -42.681425 -90.433931 z" fill="#dfc66a" />
+<path d="M 0 0 -42.681425 -90.433931 A 100 100 0 0 1 -10.188458 -99.479623 z" fill="#388c0b" />
+<path d="M 0 0 -10.188458 -99.479623 A 100 100 0 0 1 17.952539 -98.375334 z" fill="#9d6c62" />
+<path d="M 0 0 17.952539 -98.375334 A 100 100 0 0 1 41.225877 -91.106680 z" fill="#c5a82b" />
+<path d="M 0 0 41.225877 -91.106680 A 100 100 0 0 1 60.541808 -79.590763 z" fill="#514fb0" />
+<path d="M 0 0 60.541808 -79.590763 A 100 100 0 0 1 76.796009 -64.049770 z" fill="#1af9cc" />
+<path d="M 0 0 76.796009 -64.049770 A 100 100 0 0 1 88.327743 -46.885070 z" fill="#9c1cc3" />
+<path d="M 0 0 88.327743 -46.885070 A 100 100 0 0 1 94.955898 -31.358851 z" fill="#6983d8" />
+<path d="M 0 0 94.955898 -31.358851 A 100 100 0 0 1 98.252520 -18.612959 z" fill="#372918" />
+<path d="M 0 0 98.252520 -18.612959 A 100 100 0 0 1 99.562172 -9.347405 z" fill="#86249f" />
+<path d="M 0 0 99.562172 -9.347405 A 100 100 0 0 1 100.000000 -0.000000 z" fill="#780567" />
+</g></svg>
