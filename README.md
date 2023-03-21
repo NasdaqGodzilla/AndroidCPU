@@ -26,3 +26,19 @@ source cpu_recorder.sh
 cpu_recorder_test
 ```
 
+# Feature
+
+Collect top cpu usage (base on Thread, not Process) and draws to pie chart
+
+Usage(Get top 10 cpu usage in threads and draws to pie chart):
+
+```
+top -bq -H -o %CPU,CMD,NAME -s1 -n1 -m10 | OUTPUT_SVG_W=600 OUTPUT_SVG_H=800 source pie > output_example_cpu_pie.svg
+```
+
+OUTPUT_SVG_W, OUTPUT_SVG_H: Set output svg file size
+
+Output Example:
+
+![](https://cdn.jsdelivr.net/gh/NasdaqGodzilla/PeacePicture/img/output_example_cpu_pie.svg)
+
